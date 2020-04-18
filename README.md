@@ -17,5 +17,6 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 한국어 모�
 ## Update Notes
 **Version**: 0.2.0
 * Foundry VTT 0.5.5 대응 및 오역 다수 수정.
+
 **Version**: 0.1.0
 * 첫 버전.
