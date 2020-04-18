@@ -1,11 +1,12 @@
 {
   "name": "ko-KR",
   "title": "ko-KR - Core Game",
-  "description": "Add Korean language to FoundryVTT",
-  "version": "0.1.2",
-  "minimumCoreVersion" : "0.4.7",
+  "description": "Add Korean (한국어) language to FoundryVTT",
+  "version": "0.2.0",
+  "minimumCoreVersion" : "0.5.0",
+  "compatibleCoreVersion": "0.5.5",
   "author": "Shoyu Vanilla",
-    
+
   "scripts": [],
   "styles": [],
   "packs": [],
@@ -13,7 +14,7 @@
   "languages": [
     {
       "lang": "kr",
-      "name": "Korean",
+      "name": "한국어",
       "path": "ko-KR.json"
     }
   ],
