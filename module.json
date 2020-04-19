@@ -8,7 +8,7 @@
   "author": "Shoyu Vanilla",
 
   "scripts": [],
-  "styles": [],
+  "styles": ["style.css"],
   "packs": [],
   
   "languages": [
