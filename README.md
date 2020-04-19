@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Foundry-v0.5.5-informational)
 # FoundryVTT-lang-ko-KR
-* **Version**: 0.2.0
+* **Version**: 0.3.0
 * **Foundry VTT Compatibility**: 0.5.5
 * **Module Requirement(s)**: None
 
@@ -13,8 +13,12 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 한국어 모�
 * **Install** 버튼을 클릭합니다.
 * **Game Worlds** 탭에서 게임을 실행 후 우측 메뉴의 **Game Settings** 탭에서 **Configure Settings** 버튼을 클릭합니다.
 * **Language Preference** 드롭다운 메뉴를 **English**에서 **한국어**로 변경 후 설정 창 하단의 **Save Changes** 버튼을 클릭합니다.
+* 한국어 폰트도 적용하려면 **모듈 관리** 설정에서 **ko-KR - Core Game** 체크박스에 체크합니다.
 
 ## Update Notes
+**Version**: 0.3.0
+* 한국어 폰트 지원.
+
 **Version**: 0.2.0
 * Foundry VTT 0.5.5 대응 및 오역 다수 수정.
 
