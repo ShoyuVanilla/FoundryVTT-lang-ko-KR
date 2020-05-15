@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Foundry-v0.5.5-informational)
 # FoundryVTT-lang-ko-KR
-* **Version**: 0.3.0
+* **Version**: 0.3.2
 * **Foundry VTT Compatibility**: 0.5.5
 * **Module Requirement(s)**: None
 
