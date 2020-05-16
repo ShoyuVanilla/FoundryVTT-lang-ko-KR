@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Foundry-v0.5.5-informational)
 # FoundryVTT-lang-ko-KR
-* **Version**: 0.3.2
-* **Foundry VTT Compatibility**: 0.5.5
+* **Version**: 0.3.3
+* **Foundry VTT Compatibility**: 0.5.7
 * **Module Requirement(s)**: None
 
 ## Description
@@ -16,6 +16,9 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 한국어 모�
 * 한국어 폰트도 적용하려면 **모듈 관리** 설정에서 **ko-KR - Core Game** 체크박스에 체크합니다.
 
 ## Update Notes
+**Version**: 0.3.3
+* Foundry VTT 0.5.7 대응
+
 **Version**: 0.3.0
 * 한국어 폰트 지원.
 
