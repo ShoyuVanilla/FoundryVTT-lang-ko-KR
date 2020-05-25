@@ -20,6 +20,6 @@
   ],
   
   "url": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR",
-  "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/v0.3.3/module.json",
+  "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/v0.3.3/module/module.json",
   "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/releases/download/v0.3.3/release.zip"
 }
