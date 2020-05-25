@@ -2,8 +2,8 @@
 
 # FoundryVTT-lang-ko-KR
 
-* **Version**: 0.3.3
-* **Foundry VTT Compatibility**: 0.5.7
+* **Version**: 0.3.4
+* **Foundry VTT Compatibility**: 0.6.0
 * **Module Requirement(s)**: None
 
 ## Description
@@ -20,6 +20,10 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 모듈입니다
 * 한국어 폰트 및 워드 브레이크 속성도 적용하려면 **모듈 관리** 설정에서 **Tranlsation: Korean [Core]** 체크박스에 체크합니다.
 
 ## Update Notes
+
+**Version**: 0.3.4
+
+* Foundry VTT 0.6.0 대응
 
 **Version**: 0.3.3
 
