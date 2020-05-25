@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Foundry-v0.5.7-informational)
+![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
 
 # FoundryVTT-lang-ko-KR
 
