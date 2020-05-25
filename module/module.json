@@ -1,7 +1,7 @@
 {
   "name": "ko-KR",
-  "title": "ko-KR - Core Game",
-  "description": "Add Korean (한국어) language to FoundryVTT",
+  "title": "Tranlsation: Korean [Core]",
+  "description": "FoundryVTT 코어 소프트웨어의 한국어화 모듈입니다.",
   "version": "0.3.3",
   "minimumCoreVersion" : "0.5.7",
   "compatibleCoreVersion": "0.5.7",
@@ -15,11 +15,11 @@
     {
       "lang": "ko",
       "name": "한국어 (Korean)",
-      "path": "ko-KR.json"
+      "path": "ko.json"
     }
   ],
   
   "url": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR",
   "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/v0.3.3/module.json",
-  "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/archive/v0.3.3.zip"
+  "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/releases/download/v0.3.3/release.zip"
 }
