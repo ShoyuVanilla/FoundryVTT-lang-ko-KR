@@ -2,7 +2,7 @@
   "name": "ko-KR",
   "title": "Tranlsation: Korean [Core]",
   "description": "FoundryVTT 코어 소프트웨어의 한국어화 모듈입니다.",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "minimumCoreVersion" : "0.6.0",
   "compatibleCoreVersion": "0.6.0",
   "author": "Shoyu Vanilla",
