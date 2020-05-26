@@ -1,0 +1,25 @@
+{
+  "name": "ko-KR",
+  "title": "Tranlsation: Korean [Core]",
+  "description": "FoundryVTT 코어 소프트웨어의 한국어화 모듈입니다.",
+  "version": "0.3.4",
+  "minimumCoreVersion" : "0.6.0",
+  "compatibleCoreVersion": "0.6.0",
+  "author": "Shoyu Vanilla",
+
+  "scripts": [],
+  "styles": ["style.css"],
+  "packs": [],
+  
+  "languages": [
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "ko.json"
+    }
+  ],
+  
+  "url": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR",
+  "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/master/module/module.json",
+  "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/releases/download/v0.3.4/release.zip"
+}
