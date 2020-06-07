@@ -11,9 +11,10 @@ def move_data(prev_path, current_path):
 	for key, value in current_data.items():
 		if key in prev_data:
 			current_data[key] = prev_data[key]
-			print(current_data[key])
+			prev_data.pop(key, None)
 		else:
-			print(key)
+			print("Key {0} is not in previous data!".format(key))
+	print(prev_data)
 
 	with open(current_path, "w") as f:
 		json.dump(current_data, f, ensure_ascii=False, indent=2)

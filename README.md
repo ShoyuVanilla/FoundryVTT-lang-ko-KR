@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
+![](https://img.shields.io/badge/Foundry-v0.6.2-informational)
 
 # FoundryVTT-lang-ko-KR
 
-* **Version**: 0.3.4
-* **Foundry VTT Compatibility**: 0.6.0
+* **Version**: 0.3.5
+* **Foundry VTT Compatibility**: 0.6.2
 * **Module Requirement(s)**: None
 
 ## Description
@@ -17,14 +17,4 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 모듈입니다
 * **Filter Packages** 입력란에 `Korean`을 검색해 `Tranlsation: Korean [Core]` 항목의 Install 버튼을 클릭합니다.
 * **Game Worlds** 탭에서 게임을 실행 후 우측 메뉴의 **Game Settings** 탭에서 **Configure Settings** 버튼을 클릭합니다.
 * **Language Preference** 드롭다운 메뉴를 **English**에서 **한국어 (Korean)**로 변경 후 설정 창 하단의 **Save Changes** 버튼을 클릭합니다.
-* 한국어 폰트 및 워드 브레이크 속성도 적용하려면 **모듈 관리** 설정에서 **Tranlsation: Korean [Core]** 체크박스에 체크합니다.
-
-## Update Notes
-
-**Version**: 0.3.4
-
-* Foundry VTT 0.6.0 대응
-
-**Version**: 0.3.3
-
-* Foundry VTT 0.5.7 대응
+* 한글 폰트 및 워드 브레이크 속성도 적용하려면 **모듈 관리** 설정에서 `Tranlsation: Korean [Core]` 체크박스에 체크합니다.
