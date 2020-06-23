@@ -2,9 +2,9 @@
   "name": "ko-KR",
   "title": "Tranlsation: Korean [Core]",
   "description": "FoundryVTT 코어 소프트웨어의 한국어화 모듈입니다.<br>한글 폰트 및 한국어 워드 브레이크를 적용하려면 모듈 관리 메뉴에서 본 모듈을 활성화하십시오.<br><br><i class='fas fa-info-circle'></i> 개별 모듈 한국어화를 위해서는 <a href='https://github.com/ShoyuVanilla/FoundryVTT-modules2ko' target='_blank'>modules2ko 모듈</a>을 설치해주세요.<br><br><strong>버그 및 오역 제보:</strong> <a href='https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/issues/new' target='_blank'>github 저장소 이슈 등록</a> 또는 <a href='mailto:shoyuvanilla@gmail.com'>shoyuvanilla@gmail.com</a>",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "minimumCoreVersion" : "0.6.0",
-  "compatibleCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.6.4",
   "author": "Shoyu Vanilla",
 
   "styles": ["style.css"],
@@ -19,5 +19,5 @@
 
   "url": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR",
   "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/master/module/module.json",
-  "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/releases/download/v0.3.6/release.zip"
+  "download": "https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR/releases/download/v0.3.7/release.zip"
 }
