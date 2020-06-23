@@ -16,6 +16,9 @@ def move_data(prev_path, current_path):
 			print("Key {0} is not in previous data!".format(key))
 	print(prev_data)
 
+	for key, value in prev_data.items():
+		current_data[key] = value
+
 	with open(current_path, "w") as f:
 		json.dump(current_data, f, ensure_ascii=False, indent=2)
 
