@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/Foundry-v0.6.4-informational)
+![](https://img.shields.io/badge/Foundry-v0.6.5-informational)
 
 # FoundryVTT-lang-ko-KR
 
-* **Version**: 0.3.7
-* **Foundry VTT Compatibility**: 0.6.4
+* **Version**: 0.3.8
+* **Foundry VTT Compatibility**: 0.6.5
 * **Module Requirement(s)**: None
 
 ## 개요
@@ -22,5 +22,6 @@ Foundry VTT의 기본 기능들을 한국어로 출력해 주는 모듈입니다
 ## 다른 한국어화 모듈
 
 * [D&D 5e 시스템 한국어화](https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR)
+* [제13시대 시스템 한국어화](https://github.com/MaronKB/13thagekr)
 * [던전월드 시스템 한국어화](https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR)
 * [일반 모듈 한국어화](https://github.com/ShoyuVanilla/FoundryVTT-modules2ko)
