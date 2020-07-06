@@ -3,9 +3,9 @@ import collections
 import sys
 
 def move_data(prev_path, current_path):
-	with open(prev_path) as f:
+	with open(prev_path, encoding='UTF8') as f:
 		prev_data = json.load(f)
-	with open(current_path) as f:
+	with open(current_path, encoding='UTF8') as f:
 		current_data = json.load(f, object_pairs_hook=collections.OrderedDict)
 
 	for key, value in current_data.items():
@@ -19,7 +19,7 @@ def move_data(prev_path, current_path):
 	for key, value in prev_data.items():
 		current_data[key] = value
 
-	with open(current_path, "w") as f:
+	with open(current_path, "w", encoding='UTF8') as f:
 		json.dump(current_data, f, ensure_ascii=False, indent=2)
 
 move_data(sys.argv[1], sys.argv[2])
