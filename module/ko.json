@@ -103,7 +103,7 @@
 "COMBAT.End": "전투 종료",
 "COMBAT.InitiativeRoll": "우선권 굴림",
 "COMBAT.InitiativeReset": "우선권 초기화",
-"COMBAT.EndTitle": "End Combat Encounter?",
+"COMBAT.EndTitle": "전투 인카운터를 종료합니까?",
 "COMBAT.EndConfirmation": "이 전투를 종료하고 턴 트래커를 비우시겠습니까?",
 "COMBAT.None": "활성 인카운터 없음",
 "COMBAT.NoneActive": "현재 씬에 활성화된 전투 인카운터가 없습니다.",
