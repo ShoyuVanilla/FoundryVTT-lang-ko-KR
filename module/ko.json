@@ -1,7 +1,6 @@
 {
 "I18N.LANGUAGE": "한국어 (Korean)",
 "I18N.MAINTAINERS": ["Shoyu Vanilla"],
-{
 "Activate": "활성화",
 "Angle": "각도",
 "Author": "저자",
@@ -752,6 +751,7 @@
 
 "SETTINGS.Configure": "환경 설정",
 "SETTINGS.Controls": "조작법 안내",
+"SETTINGS.DemoMode": "데모 모드",
 "SETTINGS.Docs": "공식 문서 보기",
 "SETTINGS.Invite": "초대 링크",
 "SETTINGS.ManageModules": "모듈 관리",
@@ -944,6 +944,7 @@
 "PACKAGE.TagLocalization": "현지화",
 "PACKAGE.TagVersion": "버전",
 "PACKAGE.TagCoreVersion": "코어 버전",
+"PACKAGE.UpdateCheckTimedOut": "타임 아웃",
 
 "JOIN.CurrentPlayers": "현재 플레이어",
 "JOIN.HeaderJoin": "게임 세션 참가",
